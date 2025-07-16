@@ -1,4 +1,4 @@
-# IA_aplicada_a_ciencia_de_datos
+# IA_aplicada_a_ciencia_de_datos - Alura Latam
 IA aplicada a Data Science: Utilizando IA en la construcción de visualizaciones de datos
 
 🛠️ Herramientas utilizadas:
